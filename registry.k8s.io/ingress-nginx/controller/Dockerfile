@@ -1,1 +1,2 @@
-Dockerfile
+FROM registry.k8s.io/ingress-nginx/controller:v1.8.1@sha256:e5c4824e7375fcf2a393e1c03c293b69759af37a9ca6abdb91b13d78a93da8bd
+LABEL BUILDTYPE aliyun
